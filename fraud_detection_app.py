@@ -42,6 +42,7 @@ def prepare_features(df, target_column):
     # Convert categorical variables to dummy variables
     categorical_columns = X.select_dtypes(include=['object']).columns
     X = pd.get_dummies(X, columns=categorical_columns)
+  # testing
     
     return X, y
 
