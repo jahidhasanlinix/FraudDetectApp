@@ -14,7 +14,7 @@ import seaborn as sns
 #test
 #testing
 #another test - okie dokie - test done
-# testings
+# testings - dojo
 
 # Set page config first
 st.set_page_config(page_title="Credit Card Fraud Detection System", layout="wide")
