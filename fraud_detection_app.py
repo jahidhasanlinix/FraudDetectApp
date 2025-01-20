@@ -11,7 +11,7 @@ import plotly.graph_objects as go
 from sklearn.impute import SimpleImputer
 import matplotlib.pyplot as plt
 import seaborn as sns
-# Test again, parquet works now
+# TESTING PARQUET TO S3
 st.set_page_config(page_title="Credit Card Fraud Detection System", layout="wide")
 
 def load_and_preprocess_data(uploaded_file):
