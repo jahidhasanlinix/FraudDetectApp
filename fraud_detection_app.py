@@ -12,7 +12,7 @@ from sklearn.impute import SimpleImputer
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# ycombinator coming soon 
+# ycombinator coming soon okie dokie
 
 st.set_page_config(page_title="Credit Card Fraud Detection System", layout="wide")
 
